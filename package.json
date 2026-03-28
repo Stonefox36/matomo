@@ -68,7 +68,7 @@
     "@vue/eslint-config-airbnb": "^5.3.0",
     "@vue/eslint-config-typescript": "^7.0.0",
     "babel-loader": "^8.2.2",
-    "dompurify": "^2.3.3",
+    "dompurify": "^3.3.2",
     "eslint": "^9.34.0",
     "eslint-plugin-import": "^2.24.2",
     "eslint-plugin-vue": "^7.16.0",
